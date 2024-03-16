@@ -6,7 +6,7 @@
 
 #### Prerequisites
 - PostgreSQL
-- Python with `psycopg2` library
+- Python with `psycopg2` library using: `pip install psycopg2`
 
 #### Database Setup
 1. Ensure PostgreSQL is installed and running on your system.
