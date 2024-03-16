@@ -6,7 +6,7 @@
 
 #### Prerequisites
 - PostgreSQL
-- Python with `psycopg2` library using: `pip install psycopg2`
+- Python with `psycopg2` library 
 
 #### Database Setup
 1. Ensure PostgreSQL is installed and running on your system.
@@ -14,4 +14,9 @@
 3. Use the provided SQL script `a3q1.sql` to set up the `students` table structure and insert initial data. You can run this script in `pgAdmin 4` or via command line.
 
 #### Application Setup
-1. Install the `psycopg2` library by running the following command in your terminal:
+1. Install the `psycopg2` library by running the following command in your terminal: `pip install psycopg2`
+
+#### Video
+1. Link: https://youtu.be/5pabl1JWstU
+
+
